@@ -18,12 +18,9 @@
 
 ## 🧠 About Me
 
-- 🎓 CS & AI student passionate about making machines think
-- 🌍 Based in Egypt 🇪🇬
+- 🎓 CS & AI graduate passionate about making machines think
 - 🌱 Currently diving deep into **Machine Learning** and **Data Science**
-- ⚔️ Competitive programmer on Codeforces
 - 💬 Ask me about Python, ML pipelines, or anything data-related
-- ⚡ Fun fact: I spend more time naming variables than writing them
 
 ---
 
